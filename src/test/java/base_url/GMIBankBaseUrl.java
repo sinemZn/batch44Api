@@ -7,13 +7,13 @@ import utilities.Authentication;
 
 public class GMIBankBaseUrl extends Authentication {
 
-    protected RequestSpecification spac03;
+    protected RequestSpecification spec03;
 
     @Before
     public void setUp(){
 
 
-        spac03 = new RequestSpecBuilder().setBaseUri("https://www.gmibank.com/api").build();
+        spec03 = new RequestSpecBuilder().setBaseUri("https://www.gmibank.com/api").build();
 
 
     }
