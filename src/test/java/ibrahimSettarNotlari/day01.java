@@ -2,7 +2,7 @@ package ibrahimSettarNotlari;
 
 public class day01 {
 
-   //QA Tester => Verilen gorevleri test guvenligine uygun bir sekilde test edip neticesine gore sonucu raporlar
+    //QA Tester => Verilen gorevleri test guvenligine uygun bir sekilde test edip neticesine gore sonucu raporlar
 //        QA Analyst => Isin basindan sonuna kadar tum asamalarda kullanici gozunden uygul;amayi degerlendirir ve sonra test edip raporlar
 //        QA Engineer => Bu kisi kalite kontrol yapar ve teknik gecmisi ile automation a doker
 //        SDET => Greybox testing => framework yapariz, raporlama, utility olusturma, design
@@ -131,3 +131,4 @@ public class day01 {
 //    room4
 //rooms
 //      Ca
+}
