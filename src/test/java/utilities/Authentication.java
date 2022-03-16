@@ -15,7 +15,7 @@ public class Authentication {
 
 //    public static void main(String[] args) {
 //        String guncelToken = generateToken();
-//        System.out.println(guncelToken);
+//        System.out.println(guncelToken); bunu kontrol amaciyle yazmistik
 //    }
 
     public static String generateToken() {
